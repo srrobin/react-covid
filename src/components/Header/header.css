@@ -1,0 +1,18 @@
+
+.header{ 
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   flex-direction:column;
+  }
+  .header img{ 
+   height:150px;
+   width:260px;
+  }
+  .header-text{ 
+  text-transform:uppercase;
+  font-weight:bold;
+  color:#C70039 ;
+  font-size:20px;
+  }
+  

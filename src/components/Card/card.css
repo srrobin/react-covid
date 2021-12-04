@@ -1,0 +1,42 @@
+.info-box{ 
+    display:flex;
+    flex-direction:column;
+   }
+   .single-info{ 
+    display:flex;
+    flex-direction:column;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+    padding:20px;
+    margin-bottom:20px;
+    background:#fff;
+   }
+   .info-title{ 
+    color:gray;
+    text-transform:capitalize;
+    margin-bottom:10px;
+   }
+   .info-number{ 
+    font-size:25px;
+    font-weight:bold;
+    
+   }
+   .info-date{
+       text-transform:capitalize;
+       color:gray;
+       font-weight:bold;
+       margin:5px 0;
+   }
+   .info-text{ 
+    text-transform:capitalize;
+    font-size:14px;
+    font-weight:500;
+   }
+   .blue{
+       border-bottom:10px solid #6200EA
+   }
+   .green{
+       border-bottom:10px solid #4CAF50
+   }
+   .red{
+       border-bottom:10px solid #FF5733
+   }

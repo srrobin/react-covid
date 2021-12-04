@@ -1,0 +1,17 @@
+.country-picker{ 
+    display:flex;
+    justify-content:center;
+    
+   }
+   .custom-select>select{ 
+    border:none;
+    border-bottom:1px solid #444;
+    font-size:16px;
+    padding:10px 0;
+    font-weight:bold;
+    margin:10px 0;
+    width:350px;
+    
+   }
+
+   
